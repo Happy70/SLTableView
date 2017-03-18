@@ -1,0 +1,8 @@
+platform :ios, "9.0"
+  
+target "SlTableView" do
+
+   pod'AFNetworking'
+   pod'MJRefresh'
+   
+end 
