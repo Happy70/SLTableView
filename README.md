@@ -399,3 +399,5 @@ self.baseTableView.dataSource = self.dataSource;
 参考：@bestswifter [如何写好一个UITableView](http://www.jianshu.com/p/504c61a9dc82)
 
 后续有时间会写`tableView`高度自适应的文章，欢迎关注！
+
+[简书](http://www.jianshu.com/u/ec5d16fab604)
